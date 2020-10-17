@@ -9,7 +9,7 @@ package com.bjpowernode.crm.commons.contants;
 
 /**
  * <p>NAME: Contants</p>
- * @author Administrator
+ * 
  * @date 2020-06-08 11:03:24
  */
 public class Contants {
